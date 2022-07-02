@@ -51,5 +51,5 @@ q=p/q
 p=p/q
 
 print("value of p:",p)
-print("value of q:",q)    
+print("value of q:",q)  
 
